@@ -14,7 +14,7 @@ func main(){
 
 		for j:= 1; j<= 12; j++ {
 
-		table(i, j)
+		   table(i, j)
 
 		}
 	}
